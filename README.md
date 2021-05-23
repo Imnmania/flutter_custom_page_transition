@@ -1,6 +1,12 @@
-# flutter_page_transition
+# Flutter Custom Page Transition
 
-A new Flutter project.
+These are a few examples of custom page transitions in flutter. It can be exploited to build more beautiful transitions.
+
+Transitions Created in this project are:
+* Scale Transition
+* Fade Transition
+* Left to Right Transition
+* Scale Transition with custom bounce effect
 
 ## Getting Started
 
